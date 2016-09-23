@@ -5,6 +5,8 @@ import bs4
 import re
 import datetime
 import random
+import MySQLdb
+import traceback
 
 
 src_url = "https://weixiaoxiangnuan.taobao.com/?spm=a217f.8051907.313268.2.D5znj8"
@@ -13,6 +15,9 @@ itemP = '^(https:)*//item\.taobao\.com/item\.htm.*$'
 storeP = "^https://s\.taobao\.com/.*"
 pages = set()
 random.seed(datetime.datetime.now())
+
+conn = MySQLdb.connect(host='localhost',port = 3306,user='root',passwd='root',db ='scrapy', use_unicode=True, charset="utf8")
+cur = conn.cursor()
 
 def crawl(surl, pattern, function):
     global pages   
@@ -78,5 +83,20 @@ def parse_item(item_url):
     s_name = store.find("",{"class":"tb-shop-name"}).dl.dd.strong.a.attrs['title']
     s_url = store.find("",{"class":"tb-shop-name"}).dl.dd.strong.a.attrs['href']
     print ("title=%s, price=%s, s_name=%s, s_url=%s" %(title, price, s_name, s_url))
-         
-crawl(src_url, sPattern, index_page)
+    global cur
+    global conn
+    try:
+        sql = "insert t_items(item_name,item_url,shop_name,shop_url) values(%s,%s,%s,%s)"
+        cur.execute(sql, (title, item_url, s_name, s_url))
+        conn.commit()
+    except:
+	print ("insert into mysql has error")
+	traceback.print_exc()
+
+    
+if __name__ == "__main__":
+    crawl(src_url, sPattern, index_page)
+    cur.close()
+    conn.close()
+
+
