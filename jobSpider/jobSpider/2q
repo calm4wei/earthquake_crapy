@@ -1,0 +1,17 @@
+from scrapy.selector import Selector
+from scrapy import Spider
+from jobSpider.items import Job
+from scrapy.contrib.spiders import CrawlSpider, Rule
+from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
+
+class JobSpider(Spider):
+	name = "job"
+	allowed_domains = ["jobs.51job.com"]
+	start_urls = ["http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=070200%2C00&district=000000&funtype=0000&industrytype=00&issuedate=9&providesalary=06%2C07%2C08&keyword=%E5%A4%A7%E6%95%B0%E6%8D%AE&keywordtype=2&curr_page=1&lang=c&stype=1&postchannel=0000&workyear=03&cotype=99&degreefrom=99&jobterm=99&companysize=03%2C05%2C06%2C07%2C04&lonlat=0%2C0&radius=-1&ord_field=0&list_type=0&dibiaoid=0&confirmdate=9"]
+	rules = [Rule(SgmLinkExtractor(allow=('jobs\.51job\.com/nanjing.*$'),), callback="parse_item", follow=True)]
+
+	def parse(self, response):
+		item = Job()
+		position = response.xpath("//div[@class='cn']/h1[@title]")
+		item['position'] = position
+		return item
