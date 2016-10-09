@@ -1,10 +1,99 @@
-salary,position,company
-12000-24000/月,软件开发工程师(大数据),南京
-salary,position,company
-12000-24000/月,软件开发工程师(大数据),南京
-salary,position,company
-12000-24000/月,软件开发工程师(大数据),南京
-salary,position,company
-,,
-salary,position,company
-,,
+duty,salary,url,company,publish,address,position
+"<span class=""label"">职位描述：</span>",15000-19999/月,http://jobs.51job.com/shanghai-bsq/82230543.html?s=0,上海石易电子科技有限公司,10-09,异地招聘,大数据工程师
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/nanjing-yhtq/81505385.html?s=0,上海趣医网络技术服务有限公司,10-08,南京-雨花台区,Java（微服务/ SOA/大数据）
+"<span class=""label"">职位描述：</span>",10-15万/年,http://jobs.51job.com/nanjing/76606756.html?s=0,南京擎天科技有限公司,10-08,南京,大数据研发工程师
+"<span class=""label"">职位描述：</span>",20-30万/年,http://jobs.51job.com/nanjing/81804599.html?s=0,南京城市智能交通有限公司,09-26,南京,大数据分析工程师
+"<span class=""label"">职位描述：</span>",25000-29999/月,http://jobs.51job.com/nanjing/73218711.html?s=0,北京北信源软件股份有限公司,09-29,南京,高级安全研究员（大数据安全分析）
+"<span class=""label"">职位描述：</span>",15000-25000/月,http://jobs.51job.com/nanjing-xwq/81786618.html?s=0,北京途牛科技有限公司南京分公司,09-30,南京-玄武区,大数据工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-bxq/78566031.html?s=0,江苏欣网视讯软件技术有限公司,10-08,南京-白下区,大数据产品经理
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/nanjing-jnq/81469483.html?s=0,南京格里木网络科技有限公司,10-09,南京-江宁区,高薪聘媒体分析师（月薪过万）
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/73600049.html?s=0,瓯伟嘉工贸有限公司,10-08,南京,大数据工程师Big Data engineers（南京）
+"<span class=""label"">职位描述：</span>",100000-200000/年,http://jobs.51job.com/suzhou/79814577.html?s=0,苏州奖多多科技有限公司,10-08,异地招聘,大数据开发
+"<span class=""label"">职位描述：</span>",12000-24000/月,http://jobs.51job.com/nanjing/78989613.html?s=0,江苏保旺达软件技术有限公司,10-09,南京,软件开发工程师(大数据)
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/nanjing-yhtq/81533299.html?s=0,上海京颐科技股份有限公司,10-09,南京-雨花台区,Java（微服务/SOA/大数据）五险一金全额缴纳
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/79167714.html?s=0,广东威创视讯科技股份有限公司,10-09,南京,UI/UE高级设计师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-yhtq/79150406.html?s=0,博康智能网络科技股份有限公司,10-08,南京-雨花台区,大数据算法工程师
+"<span class=""label"">职位描述：</span>",20000-24999/月,http://jobs.51job.com/nanjing/80722992.html?s=0,江苏中地控股集团有限公司,10-09,南京,大数据开发工程师（麦芽数据）
+"<span class=""label"">职位描述：</span>",12000-17000/月,http://jobs.51job.com/nanjing/78848815.html?s=0,南京华苏科技有限公司,10-09,南京,WEB开发高级工程师(大数据)
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/56493738.html?s=0,南京天溯自动化控制系统有限公司,10-09,南京,招聘主管
+"<span class=""label"">职位描述：</span>",12000-16000/月,http://jobs.51job.com/nanjing/74835723.html?s=0,焦点科技股份有限公司,10-09,南京,项目经理（焦点教育）
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/wuxi/75947841.html?s=0,无锡利凯儿童用品有限公司,10-09,异地招聘,市场/营销总监
+"<span class=""label"">职位描述：</span>",15000-19999/月,http://jobs.51job.com/nanjing/59625675.html?s=0,东方融资网,10-09,南京,销售经理
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-xwq/81179286.html?s=0,深圳丝路数字视觉股份有限公司,10-09,南京-玄武区,特效师
+"<span class=""label"">职位描述：</span>",10-15万/年,http://jobs.51job.com/nanjing/81408020.html?s=0,上海钜派投资集团有限公司,10-09,南京,理财经理- 南京
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-glq/68253389.html?s=0,博拉网络,10-09,南京-鼓楼区,客户总监
+"<span class=""label"">职位描述：</span>",10-15万/年,http://jobs.51job.com/nanjing/78620209.html?s=0,上海泛微网络科技股份有限公司,10-09,南京,售前顾问
+"<span class=""label"">职位描述：</span>",10000-15000/月,http://jobs.51job.com/nanjing-yhtq/82088563.html?s=0,中科创达软件股份有限公司,10-09,南京-雨花台区,咨询师（教育产品事业部）
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/54630337.html?s=0,南京创维家用电器有限公司,10-09,南京,冰箱外销产品经理
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/shenzhen/81883021.html?s=0,深圳车仆汽车用品发展有限公司,10-09,异地招聘,业务经理
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/nanjing-glq/76762291.html?s=0,南京银城房地产开发有限公司,10-09,南京-鼓楼区,投资拓展经理
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/71451704.html?s=0,江苏宏坤供应链管理有限公司,10-09,南京,JAVA开发工程师
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/nanjing-jnq/79996476.html?s=0,南京合荣欣业信息技术有限公司,10-09,南京-江宁区,项目经理
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/overseas/82114680.html?s=0,江苏省建筑工程集团有限公司,10-09,异地招聘,英语翻译
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/77571444.html?s=0,北京联创智融信息技术有限公司,10-09,南京,java中级工程师
+"<span class=""label"">职位描述：</span>",20-30万/年,http://jobs.51job.com/nanjing/81306000.html?s=0,南通功成精细化工有限公司,10-09,南京,剂型工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/78501309.html?s=0,南京精锐教育信息咨询有限公司,10-09,南京,中心助理校长
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/75704623.html?s=0,南京和睦家健康管理中心,10-09,南京,南京和睦家健康管理中心护士-Nanjing-01385
+"<span class=""label"">职位描述：</span>",15000-19999/月,http://jobs.51job.com/nanjing/78611957.html?s=0,江苏永贵新能源科技有限公司,10-09,南京,高级硬件工程师
+"<span class=""label"">职位描述：</span>",15-20万/年,http://jobs.51job.com/nanjing-pkq/66114767.html?s=0,南京药石科技股份有限公司,10-09,南京-浦口区,工艺化学高级研究员
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-jyq/76035559.html?s=0,华耐家居苏皖销区,10-09,南京-建邺区,店面经理
+"<span class=""label"">职位描述：</span>",120000-200000/年,http://jobs.51job.com/wuxi/80561805.html?s=0,美的集团洗衣机事业部,10-09,异地招聘,NVH研究工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-yhtq/75114882.html?s=0,江苏亿嘉和信息科技有限公司,08-14,南京-雨花台区,图像算法工程师
+"<span class=""label"">职位描述：</span>",15000-19999/月,http://jobs.51job.com/nanjing/69203070.html?s=0,通联支付网络服务股份有限公司,08-25,南京,高级Java研发工程师
+"<span class=""label"">职位描述：</span>",15000-19999/月,http://jobs.51job.com/nanjing-jyq/80448390.html?s=0,深圳星桥数据技术有限公司,09-02,南京-建邺区,JAVA研发工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-yhtq/81338931.html?s=0,深圳市网新新思软件有限公司,09-06,南京-雨花台区,java中级软件开发，三年以上实际经验
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/75510723.html?s=0,江苏省电子商务服务中心有限责任公司,09-19,南京,JAVA中级程序员
+"<span class=""label"">职位描述：</span>",20-30万/年,http://jobs.51job.com/nanjing-jyq/70589823.html?s=0,万得信息技术股份有限公司（Wind资讯）,09-24,南京-建邺区,高级软件工程师（搜索引擎）
+"<span class=""label"">职位描述：</span>",13000-26000/月,http://jobs.51job.com/nanjing/78026037.html?s=0,中盈优创资讯科技有限公司,09-24,南京,产品经理
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/nanjing-qhq/75062206.html?s=0,南京孚邦信息系统有限责任公司,09-26,南京-秦淮区,腾讯江苏运营中心诚聘微信企业号产品经理
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/nanjing-jyq/70193284.html?s=0,南京臻丰信安信息科技有限公司,09-29,南京-建邺区,诚聘Java软件工程师
+"<span class=""label"">职位描述：</span>",10000-25000/月,http://jobs.51job.com/nanjing/78209234.html?s=0,苏宁云商集团股份有限公司,09-30,南京,媒介策略经理(001825)
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/nanjing-yhtq/80418174.html?s=0,上海秦苍信息科技有限公司,09-30,南京-雨花台区,JAVA开发工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-yhtq/69792901.html?s=0,成都四方伟业软件股份有限公司,10-04,南京-雨花台区,需求工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-yhtq/78481561.html?s=0,东软集团股份有限公司,10-08,南京-雨花台区,咨询顾问（电警产品销售）
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-glq/81853949.html?s=0,南京通达海信息技术有限公司,10-08,南京-鼓楼区,hadoop研发工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/67603255.html?s=0,南京远光广安信息科技有限公司,10-09,南京,工程实施管理部—中级软件工程师
+"<span class=""label"">职位描述：</span>",14000-16000/月,http://jobs.51job.com/nanjing/81878449.html?s=0,五星金服控股有限公司,10-09,南京,Andriod开发工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/73689017.html?s=0,四川百利天恒药业股份有限公司,10-09,南京,OTC控销地总（新型特色疗法）—江苏全省各地市
+"<span class=""label"">职位描述：</span>",25000-29999/月,http://jobs.51job.com/nanjing/77227628.html?s=0,北京腾信软创科技股份有限公司,10-09,南京,高级客户经理(银行金融方向)
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/71223746.html?s=0,江苏五星电器有限公司,10-09,南京,数据库工程师
+"<span class=""label"">职位描述：</span>",100000-300000/年,http://jobs.51job.com/nanjing-jnq/74696085.html?s=0,江苏曙光信息技术有限公司,10-09,南京-江宁区,销售经理
+"<span class=""label"">职位描述：</span>",10-15万/年,http://jobs.51job.com/nanjing-yhtq/75171466.html?s=0,胜斐迩仓储系统有限公司 Schaefer Systems International,10-09,南京-雨花台区,IT 项目工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/80987162.html?s=0,南京丰盛产业控股集团有限公司,10-09,南京,衍丰公司产品经理
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-yhtq/74838421.html?s=0,南京中软卓训信息技术有限公司,10-09,南京-雨花台区,测试讲师
+"<span class=""label"">职位描述：</span>",20-30万/年,http://jobs.51job.com/overseas/67224887.html?s=0,青岛联凯国际贸易有限公司,10-09,异地招聘,赴非洲—工程项目投标工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/60880934.html?s=0,江苏新业科技投资发展有限公司,10-09,南京,体育场馆馆长
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/80768448.html?s=0,颐海（上海）食品有限公司,10-09,南京,销售主管（海底捞调味品业务）
+"<span class=""label"">职位描述：</span>",30-40万/年,http://jobs.51job.com/nanjing/76554718.html?s=0,基蛋生物科技股份有限公司,10-09,南京,诊断试剂研发总监/海外高级研发人员
+"<span class=""label"">职位描述：</span>",60元/小时,http://jobs.51job.com/nanjing/75896372.html?s=0,正人国际艺术教育集团,10-09,南京,少儿乐器教师
+"<span class=""label"">职位描述：</span>",10-15万/年,http://jobs.51job.com/guiyang/79514030.html?s=0,中兴软创科技股份有限公司,10-09,异地招聘,解决方案经理（行业信息化）
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/73674506.html?s=0,南京魔盒信息科技有限公司,10-08,南京,Java高级开发工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/66656120.html?s=0,南京中新赛克科技有限责任公司,10-08,南京,数据分析工程师
+"<span class=""label"">职位描述：</span>",15-20万/年,http://jobs.51job.com/nanjing/76644419.html?s=0,亚信科技（中国）有限公司,10-09,南京,TSG_高级Linux C/C++开发工程师
+"<span class=""label"">职位描述：</span>",100000-200000/年,http://jobs.51job.com/nanjing-yhtq/69214305.html?s=0,上海通华财富资产管理有限公司,10-09,南京-雨花台区,高级软件开发工程师
+"<span class=""label"">职位描述：</span>",20000-24999/月,http://jobs.51job.com/beijing/80438173.html?s=0,北京聚众微阅科技有限公司,10-09,异地招聘,PHP全栈工程师
+"<span class=""label"">职位描述：</span>",15000-19999/月,http://jobs.51job.com/nanjing/73296683.html?s=0,付融宝（软银中国及上市公司投资平台）,10-09,南京,hadoop开发工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-jyq/67843544.html?s=0,深圳市华讯方舟科技有限公司,10-09,南京-建邺区,JAVA高级开发工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/81463526.html?s=0,京东商城,10-09,南京,JAVA工程师岗(012238)
+"<span class=""label"">职位描述：</span>",15000-19999/月,http://jobs.51job.com/nanjing-jnq/66030302.html?s=0,南京圣可尼服饰实业有限公司,10-09,南京-江宁区,电子商务总监
+"<span class=""label"">职位描述：</span>",10000-15000/月,http://jobs.51job.com/nanjing/82086109.html?s=0,江苏国瑞信安科技有限公司,10-09,南京,java高级软件开发工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/72722923.html?s=0,南京国电南思科技发展有限公司,10-09,南京,C++高级软件开发工程师 C++高级研发工程师
+"<span class=""label"">职位描述：</span>",15000-19999/月,http://jobs.51job.com/nanjing/79617386.html?s=0,华耀（中国）科技有限公司,10-09,南京,售前工程师
+"<span class=""label"">职位描述：</span>",10-15万/年,http://jobs.51job.com/nanjing-jyq/67079537.html?s=0,中鸿税务师事务所有限公司,10-09,南京-建邺区,税审经理（年薪10w-15w左右）
+"<span class=""label"">职位描述：</span>",30-40万/年,http://jobs.51job.com/chengdu-px/77752841.html?s=0,四川新荷花中药饮片股份有限公司,10-09,异地招聘,中药饮片大区销售经理
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/shanghai/79160876.html?s=0,上海鲁班软件有限公司,10-09,异地招聘,大客户经理/高级客户经理
+"<span class=""label"">职位描述：</span>",10000-15000/月,http://jobs.51job.com/nanjing/74667328.html?s=0,江苏可兰素汽车环保科技有限公司,10-09,南京,财务经理
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-jyq/81795874.html?s=0,江苏未来域酒店管理有限公司上海第二分公司,10-09,南京-建邺区,投资经理
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-jnq/81138981.html?s=0,深圳市玛歌品牌管理有限公司,10-09,南京-江宁区,南京店长（店面经理）
+"<span class=""label"">职位描述：</span>",15000-19999/月,http://jobs.51job.com/nanjing/76048272.html?s=0,方正东亚信托有限责任公司,10-09,南京,理财经理
+"<span class=""label"">职位描述：</span>",15000-35000/月,http://jobs.51job.com/nanjing-glq/74285119.html?s=0,中经堂健康产业(集团)有限公司南京分公司,10-09,南京-鼓楼区,项目经理/技术经理
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-xwq/74717311.html?s=0,一号家居网-南京,10-09,南京-玄武区,Java 高级工程师（集团）
+"<span class=""label"">职位描述：</span>",10000-180000/月,http://jobs.51job.com/nanjing/81319545.html?s=0,南京领添信息技术有限公司,10-09,南京,PHP技术经理
+"<span class=""label"">职位描述：</span>",15000-30000/月,http://jobs.51job.com/nanjing/80083090.html?s=0,苏宁云商集团股份有限公司-IT总部,10-09,南京,安全开发工程师（云安全）(002351)
+"<span class=""label"">职位描述：</span>",15000-19999/月,http://jobs.51job.com/nanjing-jnq/81258509.html?s=0,江苏享佳健康科技股份有限公司,10-09,南京-江宁区,.NET高级软件开发工程师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing/60273365.html?s=0,江苏金智教育信息股份有限公司,10-09,南京,高级Java工程师
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/beijing-hdq/82044159.html?s=0,北京地平线信息技术有限公司,10-09,异地招聘,IT运维工程师--芯片方向
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/nanjing-jnq/81766695.html?s=0,达美旅行网,10-09,南京-江宁区,架构师
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-yhtq/77274558.html?s=0,九次方大数据信息集团有限公司,09-20,南京-雨花台区,需求工程师
+"<span class=""label"">职位描述：</span>",10000-20000/月,http://jobs.51job.com/nanjing/71281318.html?s=0,上海佩才大数据科技有限公司,10-08,南京,分公司经理
+"<span class=""label"">职位描述：</span>",10000-14999/月,http://jobs.51job.com/nanjing-yhtq/81766900.html?s=0,中兴通讯股份有限公司,09-22,南京-雨花台区,综合方案经理（云计算/大数据/IDC方向）
