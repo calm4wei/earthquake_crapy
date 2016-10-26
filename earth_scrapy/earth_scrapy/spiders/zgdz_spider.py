@@ -8,7 +8,8 @@ from scrapy.http import Request
 from scrapy import log
 from scrapy.selector import Selector
 from lxml import etree
-from ..items import Journal
+from earth_scrapy.items import Journal
+from earth_scrapy.spiders.db.es import EsDao
 
 class ZGDZSpider(CrawlSpider):
 	name = 'zgdz.cn'
@@ -67,10 +68,10 @@ class ZGDZSpider(CrawlSpider):
 		summary = resp.xpath('//td[@class="unnamed3"]/span/text()')
 		item['summary_cn'] = summary.extract()[0]
 		item['summary_en'] = summary.extract()[1]
-		item['time'] = resp.xpath('//span[contains(@id,"SendTime")]').extract()
-		kw = resp.xpath('//span[contains(@id,"KeyWord")]')
+		item['time'] = resp.xpath('//span[@id="SendTime"]/text()').extract()[0]
 		item['kw_cn'] = resp.xpath('//span[@id="KeyWord"]/a/font/u/text()').extract()
 		item['kw_en'] = resp.xpath('//span[@id="EnKeyWord"]/a/font/u/text()').extract()
 #		print item
+		#self.conn.save('scrapy_test', 'scrapy_type', item)
 		return item
 
