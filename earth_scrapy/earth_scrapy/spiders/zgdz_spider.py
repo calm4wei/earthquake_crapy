@@ -57,7 +57,7 @@ class ZGDZSpider(CrawlSpider):
 		item['author'] = response.xpath('li[@class="author"]/text()').extract()[0]
 		item['journal_number'] = response.xpath('li[@class="other"]/text()').extract()[0]
 		item['detail_url'] = response.xpath('li[@class="title"]/a/@href').extract()[0]
-		item['download_url'] = response.xpath('li[@class="other"]/a/@href').extract()[1]
+		item['download_url'] = self.base_url + response.xpath('li[@class="other"]/a/@href').extract()[1]
 		#print item
 		return item
 

@@ -14,4 +14,4 @@ def crawl(next_url, info):
 if __name__ == '__main__':
 	info = {}
 	next_url = 'http://www.dzdczz.com/bookmululist.aspx?qi_id=1332'
-	crawl(next_url, info)
+	Crawl(next_url, info)

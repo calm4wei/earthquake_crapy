@@ -53,7 +53,7 @@ ROBOTSTXT_OBEY = True
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'earth_scrapy.middlewares.MyCustomDownloaderMiddleware': 543,
+#    'scrapy.downloadermiddlewares.DownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -66,11 +66,17 @@ ROBOTSTXT_OBEY = True
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'earth_scrapy.pipelines.EsPipeline': 300,
+	#'earth_scrapy.pipelines.MyFilesPipeline':1,
+	'earth_scrapy.pipelines.DownloadFiles':100,
 }
 
 ES_URI = 'cstor02:9200'
-ES_INDEX = 'taiwang'
+ES_INDEX = 'my_index'
 ES_TYPE = 'dz'
+FILES_STORE = '/home/es/data/download/earth'
+FILES_URLS_FIELD = 'download_url'
+# 120 days of delay for files expiration
+FILES_EXPIRES = 120
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
